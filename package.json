@@ -1,0 +1,22 @@
+{
+  "name": "4dmon-sentry",
+  "version": "0.0.0",
+  "description": "Configurable task runner behind the 4Dmon platform.",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/4Dmon/4Dmon-sentry.git"
+  },
+  "keywords": [
+    "4Dmon",
+    "sentry"
+  ],
+  "author": "jtrussell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/4Dmon/4Dmon-sentry/issues"
+  }
+}
